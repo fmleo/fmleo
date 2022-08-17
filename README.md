@@ -22,7 +22,7 @@
 ```              
       /\         leo@airfryer
      /  \        OS: Arch Linux x86_64 
-    /\   \       Terminal: kitty  
+    /\   \       Terminal: alacritty
    /      \      Shell: zsh 5.9 
   /   ,,   \     DE: Plasma 5.25.3 
  /   |  |  -\    WM: KWin 
