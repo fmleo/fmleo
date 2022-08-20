@@ -12,7 +12,7 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/leowonardo)
 [<img alt="Telegram" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/fmleonardo)
 [<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/leofmichelon_br)
-[<img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />](https://www.last.fm/user/M1chelon)
+[<img alt="Last.fm" src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />](https://www.last.fm/user/ComerCimento)
 [<img alt="Skyblock" src="https://img.shields.io/badge/skyblock-000000?style=for-the-badge&logoColor=white" />](http://sky.shiiyu.moe/149a5df9757a4cf9a90b53e0e572cda9)
 
 </div>
