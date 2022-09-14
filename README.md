@@ -24,9 +24,9 @@
      /  \        OS: Arch Linux x86_64 
     /\   \       Terminal: alacritty
    /      \      Shell: zsh 5.9 
-  /   ,,   \     DE: Plasma 5.25.3 
- /   |  |  -\    WM: KWin 
-/_-''    ''-_\   Font: JetBrains Mono            
+  /   ,,   \     WM: i3
+ /   |  |  -\    Font: JetBrains Mono
+/_-''    ''-_\               
 ```
 
 
