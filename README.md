@@ -15,7 +15,7 @@
       /\         leo@airfryer
      /  \        OS: Arch Linux x86_64 
     /\   \       Terminal: alacritty
-   /      \      Shell: zsh 
+   /      \      Shell: fish 
   /   ,,   \     DE: Xfce
  /   |  |  -\    WM: Xfwm4
 /_-''    ''-_\   Font: JetBrains Mono   
