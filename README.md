@@ -13,12 +13,12 @@
 
 ```              
       /\         leo@airfryer
-     /  \        OS: Arch Linux x86_64 
+     /  \        OS: EndeavourOS Linux x86_64
     /\   \       Terminal: alacritty
    /      \      Shell: fish 
-  /   ,,   \     DE: Xfce
- /   |  |  -\    WM: Xfwm4
-/_-''    ''-_\   Font: JetBrains Mono   
+  /   ,,   \     WM: i3wm
+ /   |  |  -\    Font: JetBrains Mono
+/_-''    ''-_\      
 ```
 
 
