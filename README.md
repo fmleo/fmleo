@@ -16,8 +16,8 @@
      /  \        OS: EndeavourOS Linux x86_64
     /\   \       Terminal: alacritty
    /      \      Shell: fish 
-  /   ,,   \     WM: i3wm
- /   |  |  -\    Font: JetBrains Mono
+  /   ,,   \     WM: sway
+ /   |  |  -\    Font: Iosevka
 /_-''    ''-_\      
 ```
 
