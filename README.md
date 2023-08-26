@@ -5,15 +5,15 @@
 
 <div align="center">
 
-<img alt="pronouns for fmleo, (they/it/he)" src="https://img.shields.io/badge/they/it/he-000000?style=for-the-badge&logoColor=white" />
+<img alt="pronouns for fmleo, (he/they/it)" src="https://img.shields.io/badge/he/they/it-000000?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
 ```              
-      /\         leo@airfryer
-     /  \        OS: EndeavourOS Linux x86_64
+      /\         leo@colonthree
+     /  \        OS: Arch Linux x86_64
     /\   \       Terminal: alacritty
    /      \      Shell: fish 
   /   ,,   \     WM: sway
