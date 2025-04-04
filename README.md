@@ -1,8 +1,4 @@
-<img src="https://i.imgur.com/IMjwInQ.png" />
-
-<h3 align="center">Hey there, I'm Leo!</h3>
-
-<img src="https://i.imgur.com/ztDFlBy.gif" />
-<p align="right">
-  <a href="https://iced-bee.tumblr.com/post/188062782002/hey-space-cadet">credits</a>
-</p>
+<div align="center">
+  <h3>Hey there, I'm Leo!</h3>  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leo&api_domain=wakapi.bigraccoon.monster&bg_color=1A202C&title_color=aa88ff&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact" />
+</div>
